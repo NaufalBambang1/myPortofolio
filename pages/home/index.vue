@@ -47,26 +47,26 @@
                 </CardHeader>
                 <CardContent >
                     <div class="grid grid-cols-3 gap-5">
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
                             <img src="/assets/images/nuxt.png" alt="Nuxt">
                         </div>
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
                             <img src="/assets/images/laravel.png" alt="Laravel">
                         </div>
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
                             <img src="/assets/images/next.png" alt="Next">
                         </div>
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
                             <img src="/assets/images/tailwind.png" alt="Tailwind">
                         </div>
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
                             <img src="/assets/images/css.png" alt="Css">
                         </div>
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
                             <img src="/assets/images/javscript.png" alt="Javascript">
                         </div>
-                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 cursor-pointer transition">
-                            <img src="/assets/images/typescript.png" alt="Javascript">
+                        <div class="bg-slate-100 p-4 py-5 rounded-xl flex justify-center hover:bg-slate-600 transition">
+                            <img src="/assets/images/typescript.png" alt="TypeScript">
                         </div>
                     </div>
                 </CardContent>

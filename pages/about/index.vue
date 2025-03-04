@@ -4,14 +4,14 @@
             <about/>
         </div>
 
-        <Card class="col-span-1 xl:col-span-2 rounded-xl p-6 xl:p-7">
+        <Card class="col-span-1 xl:col-span-2 rounded-xl p-0 xl:p-7">
             <CardContent class="pt-6">
 
                 <div class="pb-5">
                     <h1 class="text-xl md:text-3xl font-bold mb-0">Hi, This is <b class="text-blue-600">Naufal Bambang Nugraha</b></h1>
                 </div>
                 <div class="pb-5">
-                    <p class="mb-0 text-lg text-gray-600">
+                    <p class="mb-0 text-normal md:text-lg text-gray-600">
                         I am a <b>Computer Science</b> graduate with <b>2 years</b> of experience. Currently, I focus on Front End development using <b>Nuxt.js</b>, <b>Next.js,</b> and <b>Laravel</b>. 
                         I have a <b>strong willingness</b> to learn and work hard to continuously improve my skills and knowledge.
                     </p>
@@ -48,6 +48,7 @@
                                 <span >Feb 2023 - Feb 2024</span><br>
                                 <span class="font-bold">PT Inovasi Sukses Sentosa (Indotrading)</span><br>
                                 <span>Front End Developer Intern</span><br>
+                                <span><b>Technology Using</b> : VueJs, .Net, Quasar Framework, boostrap</span>
                             </CardContent>
                         </Card>
                         <Card class="hover:bg-slate-600 hover:text-white transition">
@@ -55,6 +56,7 @@
                                 <span>Apr 2024 - Aug 2024</span><br>
                                 <span class="font-bold">UPTD Klinik Hewan Bandung</span><br>
                                 <span>Front End Developer Freelancer</span><br>
+                                <span><b>Technology Using</b> : Laravel, Boostrap</span>
                             </CardContent>
                         </Card>
                         <Card class="hover:bg-slate-600 hover:text-white transition">
@@ -62,6 +64,7 @@
                                 <span>Sept 2024 - Oct 2024</span><br>
                                 <span class="font-bold">PT Inovasi Sukses Sentosa (Indotrading)</span><br>
                                 <span>Front End Developer Freelancer</span><br>
+                                <span><b>Technology Using</b> : VueJs, Boostrap</span>
                             </CardContent>
                         </Card>
                         <Card class="hover:bg-slate-600 hover:text-white transition">
@@ -69,6 +72,7 @@
                                 <span>Nov 2024 - Present</span><br>
                                 <span class="font-bold">PT Trans Berjaya Khatulistiwa</span><br>
                                 <span>Front End Developer Staff</span><br>
+                                <span><b>Technology Using</b> : NuxtJs, Laravel, TailwindCSS, Boostrap</span>
                             </CardContent>
                         </Card>
                     </div>
