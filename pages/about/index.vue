@@ -109,4 +109,8 @@
         'Responsive Web Design', 'Vue.JS', 'Quasar Framework', 'Laravel', 'Next.JS',
         'React.JS', 'Nuxt JS', 'Insomnia', 'RESTful API'
     ]);
+
+    useHead({
+        title: 'About Me | My Portfolio',
+    });
 </script>

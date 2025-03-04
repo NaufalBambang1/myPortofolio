@@ -66,7 +66,7 @@ const route = useRoute()
 
 const navItems = ref([
   { label: 'Home', path: '/home', icon: House },
-  { label: 'About', path: '/about', icon: CircleUser },
+  { label: 'About Me', path: '/about', icon: CircleUser },
   { label: 'Works', path: '/works', icon: BriefcaseBusiness },
 //   { label: 'Contact', path: '/contact', icon: PhoneCall },
 ]);

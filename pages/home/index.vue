@@ -109,3 +109,11 @@
         </Card>
     </div>
 </template>
+
+<script setup>
+import { useHead } from 'unhead';
+
+useHead({
+  title: 'Home | My Portfolio',
+});
+</script>
