@@ -4,7 +4,7 @@
             <about/>
         </div>
 
-        <Card class="col-span-1 xl:col-span-2 rounded-xl p-7">
+        <Card class="col-span-1 xl:col-span-2 rounded-xl p-6 xl:p-7">
             <CardContent class="pt-6">
 
                 <div class="pb-5">
